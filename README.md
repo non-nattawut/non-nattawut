@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nattawut you can call me non
-- 👀 I’m interested in GameDev , Cryptocurrcy
-- 🌱 I’m currently learning Computer Engineering Major
+- 👀 I’m interested in GameDev
+- 🌱 I’m currently majoring in Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on : Facebook ณัฐวุฒิ รอดทอง
 
