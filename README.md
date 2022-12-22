@@ -1,3 +1,5 @@
+# welcome to my profile 🙂
+
 - 👋 Hi, I’m Nattawut you can call me non
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently major in Computer Engineering
