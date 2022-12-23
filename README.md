@@ -7,6 +7,8 @@
 - 📫 How to reach me on
 - Facebook : https://www.facebook.com/ONonKunGO
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut)
+
 <!---
 non-nattawut/non-nattawut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
