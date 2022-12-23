@@ -4,7 +4,6 @@
 - 👋 Hi, I’m Nattawut you can call me non
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently major in Computer Engineering
-- 🖥️ I'm currently working with `Triple Trio Studio`
 - 📫 How to reach me on
 - Facebook : https://www.facebook.com/ONonKunGO
 
