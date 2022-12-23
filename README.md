@@ -7,7 +7,7 @@
 - 📫 How to reach me on
 - Facebook : https://www.facebook.com/ONonKunGO
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikuAlice01&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut)
 
 <!---
 non-nattawut/non-nattawut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
