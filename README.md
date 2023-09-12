@@ -8,7 +8,7 @@
 - Facebook : https://www.facebook.com/ONonKunGO
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut\&layout=compact\&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut\&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=non-nattawut\&hide=issues\&show_icons=true\&theme=gotham)
 
 <!---
