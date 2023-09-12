@@ -10,6 +10,7 @@
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut&layout=compact&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=non-nattawut&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true\&theme=gotham)
 
 <!---
 non-nattawut/non-nattawut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
