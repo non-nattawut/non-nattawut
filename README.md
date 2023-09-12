@@ -11,10 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut\&layout=compact\&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=non-nattawut\&hide=issues\&show_icons=true\&theme=gotham)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut\&layout=compact\&theme=gotham" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=non-nattawut\&hide=issues\&show_icons=true\&theme=gotham\&card_width=320" />
 </a>
 
