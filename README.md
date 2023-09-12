@@ -14,7 +14,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut\&layout=compact\&theme=gotham" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=non-nattawut\&hide=issues\&show_icons=true\&theme=gotham\&card_width=320" />
 </a>
 
