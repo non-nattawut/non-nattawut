@@ -34,6 +34,7 @@
 
 #### 💻 Game Development:
 ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=non-nattawut&limit=5&theme=nord&combine_all_yearly_contributions=true)
