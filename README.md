@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, 👋 </h1>
+<h1 align="center"> Hi 👋 </h1>
 <p align="center"> I'm curently interest in game dev! </p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ONonKunGO)
