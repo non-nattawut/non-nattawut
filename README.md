@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 </h1>
 <!-- <p align="center"> I'm currently interest in game dev! </p> -->
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ONonKunGO)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/non.nattawut.rodthong/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/oONonKunGOo)
 ![GitHub User's stars](https://img.shields.io/github/stars/non-nattawut?style=for-the-badge&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/non-nattawut?style=for-the-badge&logo=github)
