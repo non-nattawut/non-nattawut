@@ -42,7 +42,6 @@
 ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=non-nattawut&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
